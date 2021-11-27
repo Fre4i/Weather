@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Weather</string>
     <string name="input_town_text">Введите город</string>
+    <string name="search_text">найти</string>
 </resources>
